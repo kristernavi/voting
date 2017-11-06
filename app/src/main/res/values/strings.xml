@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Election 2017</string>
+    <string name="Winner">Winner : </string>
+    <string name="Winsby">Wins by : </string>
+    <string name="cvpresident">President</string>
+    <string name="cvvice_president">Vice President</string>
+    <string name="cvtreasurer">Treasurer</string>
+    <string name="cvsecretary">Secretary</string>
+    <string name="cvjoint_secretary">Joint Secretary</string>
+
+
+    <string name="presidentname1cv">James R</string>
+    <string name="presidentname2cv">Liza S</string>
+
+    <string name="vpname1cv">Nadine L</string>
+    <string name="vpname2cv">Kim C</string>
+
+    <string name="treasurername1cv">Daniel P</string>
+    <string name="treasurername2cv">Gerald A</string>
+
+
+    <string name="secretary_name1cv">Piolo P</string>
+    <string name="secretary_name2cv">Enrique G </string>
+    <string name="joint_secretary_name1cv">Enrique G</string>
+    <string name="joint_secretary_name2cv">Enchong D</string>
+    <string name="legendteacher">"2 &#8211; 50 Register numbers are assigned to staff members. Each of the votes has a special value of 5 * Regular Votes</string>
+    <string name="legendhod">Head Of the Department vote has a value of 10 regular votes. HOD id is "1" </string>
+
+    <string name="draw">No winner.Draw!</string>
+</resources>
